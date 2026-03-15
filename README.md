@@ -25,12 +25,12 @@
 ### 📊 My GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TharukiJ&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharukiJ&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=70d564&line=70d564&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TharukiJ&bg_color=0d1117&color=70d564&line=70d564&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
