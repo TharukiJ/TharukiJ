@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=py,java,js,python,nextjs,angular,react,nodejs,html,css,mysql,vercel,git,github,idea,vscode&theme=dark" />
 
 <h4 align="center">IoT & AI Stack</h4>
-<h3 <p align="left">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
 </p>
 
