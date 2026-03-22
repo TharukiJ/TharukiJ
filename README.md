@@ -14,13 +14,35 @@
 
 ---
 
-### 🚀 Languages and Tools:
+##  Languages and Tools:
+<h3 align="center">Languages and Tools:</h3>
 
+####  Development & Web
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,angular,py,java,js,cpp,nextjs,react,nodejs,html,css,vercel,figma" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,java,js,nextjs,react,nodejs,html,css,mysql,vercel,git,github,idea,vscode&theme=dark" />
+<h4 align="center">Development & Web</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,js,nextjs,react,html,css,mysql,vercel,github,idea,vscode&theme=dark" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Antigravity_IDE-000000?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity">
 </p>
+
+#### IoT & AI Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,supabase,raspberrypi,arduino,linux,bots,postman,pydantic&theme=dark" />
+  <br>
+  <img src="https://img.shields.io/badge/Picovoice-FFD43B?style=flat&logo=python&logoColor=black" alt="Picovoice">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Backblaze_B2-FF3E00?style=flat&logo=backblaze&logoColor=white" alt="Backblaze">
+</p>
+
+#### Design & Editing
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma&theme=dark" />
+</p>
+
+---
+
 
 ### 📊 My GitHub Stats:
 
