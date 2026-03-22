@@ -17,8 +17,7 @@
 
 ####  Development & Web
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,js,nextjs,react,nodejs,html,css,mysql,vercel,git,github,idea,vscode&theme=dark" />
-<h4 align="center">Development & Web</h4>
+  <img src="https://skillicons.dev/icons?i=py,java,js,python,nextjs,Anguler,react,nodejs,html,css,mysql,vercel,git,github,idea,vscode&theme=dark" />
 
 
 #### IoT & AI Stack
