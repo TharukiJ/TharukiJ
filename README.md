@@ -19,11 +19,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,java,js,nextjs,react,nodejs,html,css,mysql,vercel,git,github,idea,vscode&theme=dark" />
 <h4 align="center">Development & Web</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,js,nextjs,react,html,css,mysql,vercel,github,vscode&theme=dark" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Antigravity_IDE-000000?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity">
-</p>
+
 
 #### IoT & AI Stack
 <p align="left">
