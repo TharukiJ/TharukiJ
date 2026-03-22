@@ -16,19 +16,18 @@
 
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">**Languages and Tool**s:</h3>
 
-####  **Development & Web**
+<h4 align="center">Development & Web</h4>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,java,js,python,nextjs,angular,react,nodejs,html,css,mysql,vercel,git,github,idea,vscode&theme=dark" />
 
-
-#### **IoT & AI Stack**
+<h4 align="center">IoT & AI Stack</h4>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
 </p>
 
-#### **Design & Editing**
+h4 align="center">Design & Editing</h4>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 </p>
