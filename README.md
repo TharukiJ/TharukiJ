@@ -15,6 +15,9 @@
 ---
 
 
+###  Languages and Tools:
+<h3 align="center">Languages and Tools:</h3>
+
 ####  **Development & Web**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,java,js,python,nextjs,angular,react,nodejs,html,css,mysql,vercel,git,github,idea,vscode&theme=dark" />
