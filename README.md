@@ -27,7 +27,7 @@
 
 #### **Design & Editing**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ps,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?,figma&theme=dark" />
 </p>
 
 ---
