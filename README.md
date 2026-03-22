@@ -17,16 +17,12 @@
 
 ####  Development & Web
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,js,python,nextjs,Anguler,react,nodejs,html,css,mysql,vercel,git,github,idea,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,python,nextjs,angular,react,nodejs,html,css,mysql,vercel,git,github,idea,vscode&theme=dark" />
 
 
 #### IoT & AI Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
-  <br>
-  <img src="https://img.shields.io/badge/Picovoice-FFD43B?style=flat&logo=python&logoColor=black" alt="Picovoice">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/Backblaze_B2-FF3E00?style=flat&logo=backblaze&logoColor=white" alt="Backblaze">
 </p>
 
 #### Design & Editing
