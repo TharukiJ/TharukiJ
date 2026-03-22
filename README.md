@@ -15,19 +15,19 @@
 ---
 
 
-####  Development & Web
+#### ** Development & Web**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,java,js,python,nextjs,angular,react,nodejs,html,css,mysql,vercel,git,github,idea,vscode&theme=dark" />
 
 
-#### IoT & AI Stack
+#### **IoT & AI Stack**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
 </p>
 
-#### Design & Editing
+#### **Design & Editing**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ps,figma&theme=dark" />
 </p>
 
 ---
