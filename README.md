@@ -16,7 +16,7 @@
 
 
 
-<h3 align="center">**Languages and Tool**s:</h3>
+<h3 align="center">Languages and Tool:</h3>
 
 <h4 align="center">Development & Web</h4>
 <p align="left">
@@ -27,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
 </p>
 
-h4 align="center">Design & Editing</h4>
+<h4 align="center">Design & Editing</h4>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 </p>
