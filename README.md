@@ -1,13 +1,13 @@
 # 👋 Hi there, I'm Tharuki
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/tharuki-jayasuriya-a9a8b3319" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/tharuki-jayasuriya/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/https://www.instagram.com/tharuk_yy?igsh=Zjl3MmM4OHJsbjRz&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.facebook.com/https://www.facebook.com/share/1CDRjWkdia/?mibextid=wwXIfr" target="_blank">
+  <a href="https://www.facebook.com/https://web.facebook.com/tharuki.jayasuriya.2025" target="_blank">
     <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
 </p>
@@ -27,7 +27,7 @@
 
 #### **Design & Editing**
 <p align="left">
-  <img src="https://skillicons.dev/icons?,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 </p>
 
 ---
