@@ -1,35 +1,44 @@
 # 👋 Hi there, I'm Tharuki
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/tharuki-jayasuriya/" target="_blank">
+  <a href="https://www.linkedin.com/in/tharuki-jayasuriya/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/https://www.instagram.com/tharuk_yy?igsh=Zjl3MmM4OHJsbjRz&utm_source=qr" target="_blank">
+  <a href="https://www.instagram.com/tharuk_yy/" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.facebook.com/https://web.facebook.com/tharuki.jayasuriya.2025" target="_blank">
+  <a href="https://www.facebook.com/tharuki.jayasuriya.2025" target="_blank">
     <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
 </p>
 
 ---
 
+<h3 align="center">🛠️ Languages and Tools</h3>
 
-
-<h3 align="center">Languages and Tool:</h3>
-
-<h4 align="center">Development & Web</h4>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,js,python,nextjs,angular,react,nodejs,html,css,mysql,vercel,git,github,idea,vscode&theme=dark" />
-
-<h4 align="center">IoT & AI Stack</h4>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
+<h4 align="center">Programming Languages</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css&theme=dark" alt="Programming Languages" />
 </p>
 
-<h4 align="center">Design & Editing</h4>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+<h4 align="center">Frontend Development</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular&theme=dark" alt="Frontend Frameworks" />
+</p>
+
+<h4 align="center">Backend & Databases</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,mysql&theme=dark" alt="Backend and Databases" />
+</p>
+
+<h4 align="center">Tools, Platforms & IDEs</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,idea&theme=dark" alt="Tools and Platforms" />
+</p>
+
+<h4 align="center">UI/UX Design</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Design Tools" />
 </p>
 
 ---
