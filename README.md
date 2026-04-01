@@ -61,7 +61,7 @@
 
 <br>
 
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0"style="border:none;">
   <tr>
     <td width="58%" valign="middle" align="center">
       <a href="https://github.com/TharukiJ">
