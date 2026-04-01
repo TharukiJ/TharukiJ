@@ -46,6 +46,14 @@
   <img src="https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=EDE6D4" />
   <img src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=EDE6D4" />
 </p>
+<h4 align="center">Development Tools & IDEs</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=flat&logo=antdesign&logoColor=EDE6D4" />
+  <img src="https://img.shields.io/badge/VS%20Code-000000?style=flat&logo=visualstudiocode&logoColor=EDE6D4" />
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=EDE6D4" />
+  <img src="https://img.shields.io/badge/NetBeans-000000?style=flat&logo=apachenetbeanside&logoColor=EDE6D4" />
+  <img src="https://img.shields.io/badge/IDLE-000000?style=flat&logo=python&logoColor=EDE6D4" />
+</p>
 
 
 
