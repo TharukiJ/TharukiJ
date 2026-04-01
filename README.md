@@ -62,29 +62,6 @@
 
 <br>
 
-<h3 align="center">📌 Profile Summary Chart</h3>
-
-<div align="center">
-  <a href="https://github.com/TharukiJ">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TharukiJ&theme=github_dark" alt="Profile Details" />
-  </a>
-  <a href="https://github.com/TharukiJ?tab=repositories">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TharukiJ&theme=github_dark" alt="Repos Per Language" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/TharukiJ">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TharukiJ&theme=github_dark" alt="Most Commit Language" />
-  </a>
-  <a href="https://github.com/TharukiJ">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TharukiJ&theme=github_dark" alt="Stats Summary" />
-  </a>
-</div>
-
-<br>
 
 <h3 align="center">🔥 Contribution Streak</h3>
 
