@@ -1,9 +1,9 @@
-<h2 align="center">💻 Collaboration</h2>
+<h2 align="center">Collaboration</h2>
 
 <p align="center">
   Always open to contributing to open-source projects and collaborating on innovative software ideas.
 </p>
-<h2 align="center">🛠️ Technologies</h2>
+<h2 align="center">Technologies</h2>
 
 <h4 align="center">Programming Languages</h4>
 <p align="center">
@@ -58,7 +58,7 @@
 
 
 ---
-<h2 align="center">📊 Statistics</h2> 
+<h2 align="center">Statistics</h2> 
 <h3 align="center">Tharuki's GitHub Stats</h3> 
 
 <div align="center"> 
