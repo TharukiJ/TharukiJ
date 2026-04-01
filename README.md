@@ -5,27 +5,39 @@
 </p>
 <h2 align="center">🛠️ Languages and Tools</h2>
 
+<h2 align="center">🛠️ Languages and Tools</h2>
+
 <h4 align="center">Programming Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py&theme=dark" style="background-color:#000000; border:1px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" style="background-color:#000000; border:1px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" style="background-color:#000000; border:1px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" style="background-color:#000000; border:1px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" style="background-color:#000000; border:1px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
 </p>
 
 <h4 align="center">Frontend Development</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" style="background-color:#000000; border:1px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" style="background-color:#000000; border:1px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=angular&theme=dark" style="background-color:#000000; border:1px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=angular&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
 </p>
 
 <h4 align="center">Backend & Databases</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" style="background-color:#000000; border:1px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" style="background-color:#000000; border:1px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" style="background-color:#000000; border:1px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
+</p>
+
+<h4 align="center">Tools, Platforms & IDEs</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=idea&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
 </p>
 
 <h4 align="center">Tools, Platforms & IDEs</h4>
