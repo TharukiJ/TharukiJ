@@ -6,27 +6,8 @@
 
 ---
 
-<h2 align="center">🛠️ Languages and Tools</h2>
+<img width="739" height="656" alt="image" src="https://github.com/user-attachments/assets/9b3ff394-a0c9-42a8-a88c-2d1184e50b8e" />
 
-<h4 align="center">Programming Languages</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,js,html,css&theme=dark" alt="Programming Languages" />
-</p>
-
-<h4 align="center">Frontend Development</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular&theme=dark" alt="Frontend Frameworks" />
-</p>
-
-<h4 align="center">Backend & Databases</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,mysql&theme=dark" alt="Backend and Databases" />
-</p>
-
-<h4 align="center">Tools, Platforms & IDEs</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,idea,figma&theme=dark" alt="Tools and Platforms" />
-</p>
 
 ---
 <h2 align="center">📊 Statistics</h2> 
