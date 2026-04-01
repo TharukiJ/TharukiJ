@@ -41,7 +41,21 @@
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Design Tools" />
 </p>
 
----
+--
+### 📊 My GitHub Stats chart:
+<div align="center"> 
+  <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">    &nbspCollaboration</h2>
+  <p>I'm open to collaborating on open-source development projects and contributing to impactful software solutions.
+</div>
+<br><br>
+<div align="center"> 
+     <a href="https://github.com/TharukiJ">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anuja-jayasinghe&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+    <a href="https://vercel.com/tharukijs-projects">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuja-jayasinghe&theme=react&line_height=40"/>
+    </a>
+</div>
 
 
 ### 📊 My GitHub Stats:
