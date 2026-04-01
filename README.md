@@ -50,10 +50,10 @@
 <br><br>
 <div align="center"> 
      <a href="https://github.com/TharukiJ">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TharukiJ&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TharukiJ&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7ee787&text_color=7ee787&icon_color=7ee787&border_color=2ea043&line_height=40" />
     </a>
     <a href="https://github.com/TharukiJ?tab=repositories">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharukiJ&theme=react&line_height=40"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharukiJ&bg_color=0d1117&title_color=7ee787&text_color=7ee787&icon_color=7ee787&border_color=2ea043&line_height=40"/>
     </a>
 </div>
 
