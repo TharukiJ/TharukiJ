@@ -74,5 +74,5 @@
 </div>
 
 <br>
-<h3 align="center">📈 Contribution Graph</h3>
+
 
