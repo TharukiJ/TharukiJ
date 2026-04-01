@@ -61,9 +61,9 @@
 
 <br>
 
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none; outline:none;">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none; outline:none; border-collapse:collapse;">
   <tr>
-    <td width="58%" valign="middle" align="center">
+    <td width="58%" valign="middle" align="center" style="border:none; outline:none;">
       <a href="https://github.com/TharukiJ">
         <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TharukiJ&bg_color=0d1117&color=7ee787&line=7ee787&point=ffffff&hide_border=false&border_color=2ea043" alt="Contribution Graph" />
       </a>
