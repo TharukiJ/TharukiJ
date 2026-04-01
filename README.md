@@ -3,52 +3,50 @@
 <p align="center">
   Always open to contributing to open-source projects and collaborating on innovative software ideas.
 </p>
-<h2 align="center">🛠️ Languages and Tools</h2>
-
-<h2 align="center">🛠️ Languages and Tools</h2>
+<h2 align="center">🛠️ Technologies</h2>
 
 <h4 align="center">Programming Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=EDE6D4" />
+  <img src="https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=EDE6D4" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=EDE6D4" />
+  <img src="https://img.shields.io/badge/HTML-000000?style=flat&logo=html5&logoColor=EDE6D4" />
+  <img src="https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=EDE6D4" />
+  <img src="https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=EDE6D4" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=flat&logo=csharp&logoColor=EDE6D4" />
 </p>
 
-<h4 align="center">Frontend Development</h4>
+<h4 align="center">Frontend</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=angular&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
+  <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=EDE6D4" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=EDE6D4" />
+  <img src="https://img.shields.io/badge/Angular-000000?style=flat&logo=angular&logoColor=EDE6D4" />
+  <img src="https://img.shields.io/badge/Frontend-000000?style=flat&logo=frontendmentor&logoColor=EDE6D4" />
 </p>
 
-<h4 align="center">Backend & Databases</h4>
+<h4 align="center">Backend</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs&logoColor=EDE6D4" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi&logoColor=EDE6D4" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=EDE6D4" />
 </p>
 
-<h4 align="center">Tools, Platforms & IDEs</h4>
+<h4 align="center">AI</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=idea&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" style="background-color:#000000; border:2px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
+  <img src="https://img.shields.io/badge/Gemini-000000?style=flat&logo=googlegemini&logoColor=EDE6D4" />
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=EDE6D4" />
+  <img src="https://img.shields.io/badge/Claude-000000?style=flat&logo=anthropic&logoColor=EDE6D4" />
 </p>
 
-<h4 align="center">Tools, Platforms & IDEs</h4>
+<h4 align="center">Tools</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" style="background-color:#000000; border:1px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" style="background-color:#000000; border:1px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" style="background-color:#000000; border:1px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" style="background-color:#000000; border:1px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=idea&theme=dark" style="background-color:#000000; border:1px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" style="background-color:#000000; border:1px solid #EDE6D4; border-radius:12px; padding:8px; margin:6px;" />
+  <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=EDE6D4" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=EDE6D4" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=EDE6D4" />
+  <img src="https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=EDE6D4" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=EDE6D4" />
 </p>
+
 
 
 ---
