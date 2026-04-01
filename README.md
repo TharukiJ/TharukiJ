@@ -62,17 +62,18 @@
 
 <br>
 
-
 <h3 align="center">🔥 Contribution Streak</h3>
 
 <div align="center">
   <a href="https://github.com/TharukiJ">
-    <img src="https://streak-stats.demolab.com?user=TharukiJ&theme=github-dark&background=0D1117&ring=7ee787&fire=7ee787&currStreakLabel=7ee787&sideLabels=7ee787&dates=ffffff&border=2ea043" alt="GitHub Streak" />
+    <img height="180em" src="https://streak-stats.demolab.com?user=TharukiJ&theme=github-dark&background=0D1117&ring=7ee787&fire=7ee787&currStreakLabel=7ee787&sideLabels=7ee787&dates=ffffff&border=2ea043" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/TharukiJ">
+    <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=TharukiJ&bg_color=0d1117&color=7ee787&line=7ee787&point=ffffff&hide_border=false&border_color=2ea043" alt="Contribution Graph" />
   </a>
 </div>
 
 <br>
-
 <h3 align="center">📈 Contribution Graph</h3>
 
 <div align="center">
