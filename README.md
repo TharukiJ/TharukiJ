@@ -52,27 +52,37 @@
 <h3 align="center">Tharuki's GitHub Stats</h3>
 
 <div align="center">
-
   <a href="https://github.com/TharukiJ">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TharukiJ&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7ee787&text_color=7ee787&icon_color=7ee787&border_color=2ea043" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TharukiJ&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7ee787&text_color=7ee787&icon_color=7ee787&border_color=2ea043" alt="GitHub Stats" />
   </a>
-
-  <a href="https://github.com/TharukiJ">
-    <img width="49%" src="https://streak-stats.demolab.com?user=TharukiJ&theme=github-dark&background=0D1117&ring=7ee787&fire=7ee787&currStreakLabel=7ee787&sideLabels=7ee787&dates=ffffff&border=2ea043" alt="GitHub Streak" />
+  <a href="https://github.com/TharukiJ?tab=repositories">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharukiJ&layout=compact&bg_color=0d1117&title_color=7ee787&text_color=7ee787&icon_color=7ee787&border_color=2ea043" alt="Top Languages" />
   </a>
-
 </div>
 
 <br>
 
-<div align="center">
+<h3 align="center">🔥 Contribution Streak</h3>
 
-  <a href="https://github.com/TharukiJ">
-    <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=TharukiJ&bg_color=0d1117&color=7ee787&line=7ee787&point=ffffff&hide_border=false&border_color=2ea043" alt="Contribution Graph" />
-  </a>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/TharukiJ">
+        <img height="180em" src="https://streak-stats.demolab.com?user=TharukiJ&theme=github-dark&background=0D1117&ring=7ee787&fire=7ee787&currStreakLabel=7ee787&sideLabels=7ee787&dates=ffffff&border=2ea043" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td width="20"></td>
+    <td valign="top">
+      <a href="https://github.com/TharukiJ">
+        <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=TharukiJ&bg_color=0d1117&color=7ee787&line=7ee787&point=ffffff&hide_border=false&border_color=2ea043" alt="Contribution Graph" />
+      </a>
+    </td>
+    <td width="30"></td>
+    <td valign="top">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=3000&pause=800&color=7EE787&background=0D111700&multiline=true&repeat=true&width=430&height=180&lines=class+Tharuki%3A;++++def+__init__(self)%3A;++++++++self.role+%3D+%22Developer%22;++++++++self.skills+%3D+%5B%22Python%22%2C+%22JavaScript%22%2C+%22React%22%5D;++++def+create(self)%3A;++++++++return+%22impactful+software%22" alt="Python Typing Animation" />
+    </td>
+  </tr>
+</table>
 
-  <a href="https://github.com/TharukiJ">
-    <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=TharukiJ&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contribution Bars" />
-  </a>
-
-</div>
+<br>
+```
