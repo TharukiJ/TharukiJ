@@ -76,8 +76,3 @@
 <br>
 <h3 align="center">📈 Contribution Graph</h3>
 
-<div align="center">
-  <a href="https://github.com/TharukiJ">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TharukiJ&bg_color=0d1117&color=7ee787&line=7ee787&point=ffffff&hide_border=false&border_color=2ea043" width="100%" alt="Activity Graph" />
-  </a>
-</div>
