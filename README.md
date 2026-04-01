@@ -66,5 +66,10 @@
   <a href="https://github.com/TharukiJ">
     <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=TharukiJ&bg_color=0d1117&color=7ee787&line=7ee787&point=ffffff&hide_border=false&border_color=2ea043" alt="Contribution Graph" />
   </a>
-  <img width="50%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=7EE787&background=0D111700&center=false&vCenter=false&multiline=true&repeat=true&width=600&height=250&lines=class+Tharuki%3A;++++def+__init__(self)%3A;++++++++self.role+%3D+%22Developer%22;++++++++self.skills+%3D+%5B%22Python%22%2C+%22JavaScript%22%2C+%22React%22%5D;++++def+build(self)%3A;++++++++return+%22impactful+software%22" alt="Python Animation" />
-</div>
+ </td>
+    <td width="49%" align="center" valign="middle">
+      <br><br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=7EE787&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=260&lines=class+Tharuki%3A;++++def+__init__(self)%3A;++++++++self.role+%3D+%22Developer%22;++++++++self.skills+%3D+%5B%22Python%22%2C+%22JavaScript%22%2C+%22React%22%5D;++++def+build(self)%3A;++++++++return+%22impactful+software%22" alt="Python Animation" />
+    </td>
+  </tr>
+</table>
