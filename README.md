@@ -61,6 +61,8 @@
   <img src="https://img.shields.io/badge/IDLE-000000?style=flat&logo=python&logoColor=EDE6D4&labelColor=000000&color=000000" />
   <img src="https://img.shields.io/badge/Antigravity-000000?style=flat&logo=antdesign&logoColor=EDE6D4&labelColor=000000&color=000000" />
 </p>
+<br>
+<br>
 
 <h2 align="center">𝕊𝕥𝕒𝕥𝕚𝕤𝕥𝕚𝕔𝕤</h2> 
 
