@@ -59,7 +59,6 @@
   <img src="https://img.shields.io/badge/Antigravity-000000?style=flat&logo=antdesign&logoColor=EDE6D4&labelColor=000000&color=000000" />
 </p>
 
----
 <h2 align="center">𝕊𝕥𝕒𝕥𝕚𝕤𝕥𝕚𝕔𝕤</h2> 
 <h3 align="center">Tharuki's GitHub Stats</h3> 
 
