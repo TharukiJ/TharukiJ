@@ -2,11 +2,11 @@
   <img src="https://raw.githubusercontent.com/TharukiJ/TharukiJ/main/assets/dino.gif" width="100%" alt="Dino Banner" />
 </p>
 <p align="center">
+  
   ​🇦​​🇱​​🇼​​🇦​​🇾​​🇸​ ​🇴​​🇵​​🇪​​🇳​ ​🇹​​🇴​ ​🇨​​🇴​​🇳​​🇹​​🇷​​🇮​​🇧​​🇺​​🇹​​🇮​​🇳​​🇬​ ​🇹​​🇴​ ​🇴​​🇵​​🇪​​🇳​-​🇸​​🇴​​🇺​​🇷​​🇨​​🇪​ ​🇵​​🇷​​🇴​​🇯​​🇪​​🇨​​🇹​​🇸​ ​🇦​​🇳​​🇩​ ​🇨​​🇴​​🇱​​🇱​​🇦​​🇧​​🇴​​🇷​​🇦​​🇹​​🇮​​🇳​​🇬​ ​🇴​​🇳​ ​🇮​​🇳​​🇳​​🇴​​🇻​​🇦​​🇹​​🇮​​🇻​​🇪​ ​🇸​​🇴​​🇫​​🇹​​🇼​​🇦​​🇷​​🇪​ ​🇮​​🇩​​🇪​​🇦​​🇸​.
 </p>
+
 <h2 align="center">𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜</h2>
-
-
 <h4 align="center">Programming Languages</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py&theme=dark" />
