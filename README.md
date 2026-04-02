@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TharukiJ/TharukiJ/main/assets/dino.gif" width="100%" alt="Dino Banner" />
+  <img src="https://github.com/TharukiJ/TharukiJ/blob/main/assets/dino.gif?raw=true" width="100%" />
 </p>
-<p align="center">
   
   ​🇦​​🇱​​🇼​​🇦​​🇾​​🇸​ ​🇴​​🇵​​🇪​​🇳​ ​🇹​​🇴​ ​🇨​​🇴​​🇳​​🇹​​🇷​​🇮​​🇧​​🇺​​🇹​​🇮​​🇳​​🇬​ ​🇹​​🇴​ ​🇴​​🇵​​🇪​​🇳​-​🇸​​🇴​​🇺​​🇷​​🇨​​🇪​ ​🇵​​🇷​​🇴​​🇯​​🇪​​🇨​​🇹​​🇸​ ​🇦​​🇳​​🇩​ ​🇨​​🇴​​🇱​​🇱​​🇦​​🇧​​🇴​​🇷​​🇦​​🇹​​🇮​​🇳​​🇬​ ​🇴​​🇳​ ​🇮​​🇳​​🇳​​🇴​​🇻​​🇦​​🇹​​🇮​​🇻​​🇪​ ​🇸​​🇴​​🇫​​🇹​​🇼​​🇦​​🇷​​🇪​ ​🇮​​🇩​​🇪​​🇦​​🇸​.
 </p>
