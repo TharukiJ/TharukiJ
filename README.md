@@ -5,57 +5,57 @@
 </p>
 <h2 align="center">𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜</h2>
 
+
 <h4 align="center">Programming Languages</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=EDE6D4" />
-  <img src="https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=EDE6D4" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=EDE6D4" />
-  <img src="https://img.shields.io/badge/HTML-000000?style=flat&logo=html5&logoColor=EDE6D4" />
-  <img src="https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=EDE6D4" />
-  <img src="https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=EDE6D4" />
-  <img src="https://img.shields.io/badge/C%23-000000?style=flat&logo=csharp&logoColor=EDE6D4" />
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs&theme=dark" />
 </p>
 
 <h4 align="center">Frontend</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=EDE6D4" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=EDE6D4" />
-  <img src="https://img.shields.io/badge/Angular-000000?style=flat&logo=angular&logoColor=EDE6D4" />
-  <img src="https://img.shields.io/badge/Frontend-000000?style=flat&logo=frontendmentor&logoColor=EDE6D4" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=angular&theme=dark" />
 </p>
 
-<h4 align="center">Backend</h4>
+<h4 align="center">Backend, Database & Cloud</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs&logoColor=EDE6D4" />
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi&logoColor=EDE6D4" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=EDE6D4" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=EDE6D4&labelColor=000000&color=000000" />
 </p>
 
-<h4 align="center">AI</h4>
+<h4 align="center">AI Tools</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Gemini-000000?style=flat&logo=googlegemini&logoColor=EDE6D4" />
-  <img src="https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=EDE6D4" />
-  <img src="https://img.shields.io/badge/Claude-000000?style=flat&logo=anthropic&logoColor=EDE6D4" />
+  <img src="https://img.shields.io/badge/Gemini-000000?style=flat&logo=googlegemini&logoColor=EDE6D4&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=EDE6D4&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/Claude-000000?style=flat&logo=anthropic&logoColor=EDE6D4&labelColor=000000&color=000000" />
 </p>
 
-<h4 align="center">Tools</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=EDE6D4" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=EDE6D4" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=EDE6D4" />
-  <img src="https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=EDE6D4" />
-  <img src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=EDE6D4" />
-</p>
 <h4 align="center">Development Tools & IDEs</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Antigravity-000000?style=flat&logo=antdesign&logoColor=EDE6D4" />
-  <img src="https://img.shields.io/badge/VS%20Code-000000?style=flat&logo=visualstudiocode&logoColor=EDE6D4" />
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=EDE6D4" />
-  <img src="https://img.shields.io/badge/NetBeans-000000?style=flat&logo=apachenetbeanside&logoColor=EDE6D4" />
-  <img src="https://img.shields.io/badge/IDLE-000000?style=flat&logo=python&logoColor=EDE6D4" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 </p>
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-000000?style=flat&logo=canva&logoColor=EDE6D4&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/NetBeans-000000?style=flat&logo=apachenetbeanside&logoColor=EDE6D4&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/IDLE-000000?style=flat&logo=python&logoColor=EDE6D4&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=flat&logo=antdesign&logoColor=EDE6D4&labelColor=000000&color=000000" />
+</p>
 
 ---
 <h2 align="center">Statistics</h2> 
