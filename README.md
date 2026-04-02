@@ -1,9 +1,6 @@
 <p align="center">
-<<<<<<< HEAD
   <img src="assets/dino.gif" width="100%" />
-=======
   <img src="c:\Users\USER\Documents\GitHub\TharukiJ\assets\dino.gif" width="100%" />
->>>>>>> 0394c4ff0386190da2368ba11159b0408690f747
 </p>
   
 <p align="center">
