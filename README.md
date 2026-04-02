@@ -2,6 +2,7 @@
   <img src="assets/dino.gif" width="100%" />
   <img src="c:\Users\USER\Documents\GitHub\TharukiJ\assets\dino.gif" width="100%" />
 </p>
+
   <p align="center">
  𝙰𝚕𝚠𝚊𝚢𝚜 𝚘𝚙𝚎𝚗 𝚝𝚘 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚗𝚐 𝚝𝚘 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚗𝚍 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚗𝚐 𝚘𝚗 𝚒𝚗𝚗𝚘𝚟𝚊𝚝𝚒𝚟𝚎 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚒𝚍𝚎𝚊𝚜.    
 </p>
