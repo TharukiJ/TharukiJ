@@ -11,7 +11,7 @@
 <br>
 
 <h2 align="center">𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜</h2>
-<h4 align="center">Programming Languages</h4>
+<h4 align="center">𝔓𝔯𝔬𝔤𝔯𝔞𝔪𝔪𝔦𝔫𝔤 𝔏𝔞𝔫𝔤𝔲𝔞𝔤𝔢𝔰</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py&theme=dark" />
   <img src="https://skillicons.dev/icons?i=java&theme=dark" />
@@ -22,14 +22,14 @@
   <img src="https://skillicons.dev/icons?i=cs&theme=dark" />
 </p>
 
-<h4 align="center">Frontend</h4>
+<h4 align="center">𝕱𝖗𝖔𝖓𝖙𝖊𝖓𝖉</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react&theme=dark" />
   <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" />
   <img src="https://skillicons.dev/icons?i=angular&theme=dark" />
 </p>
 
-<h4 align="center">Backend, Database & Cloud</h4>
+<h4 align="center">𝕭𝖆𝖈𝖐𝖊𝖓𝖉, 𝕯𝖆𝖙𝖆𝖇𝖆𝖘𝖊 & 𝕮𝖑𝖔𝖚𝖉</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
   <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
@@ -40,14 +40,14 @@
   <img src="https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=EDE6D4&labelColor=000000&color=000000" />
 </p>
 
-<h4 align="center">AI Tools</h4>
+<h4 align="center">𝕬𝕴 𝕿𝖔𝖔𝖑𝖘</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Gemini-000000?style=flat&logo=googlegemini&logoColor=EDE6D4&labelColor=000000&color=000000" />
   <img src="https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=EDE6D4&labelColor=000000&color=000000" />
   <img src="https://img.shields.io/badge/Claude-000000?style=flat&logo=anthropic&logoColor=EDE6D4&labelColor=000000&color=000000" />
 </p>
 
-<h4 align="center">Development Tools & IDEs</h4>
+<h4 align="center">𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖒𝖊𝖓𝖙 𝕿𝖔𝖔𝖑𝖘 & 𝕴𝕯𝕰𝖘</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git&theme=dark" />
   <img src="https://skillicons.dev/icons?i=github&theme=dark" />
