@@ -1,7 +1,6 @@
-<h2 align="center">Collaboration</h2>
 
 <p align="center">
-  Always open to contributing to open-source projects and collaborating on innovative software ideas.
+  ​🇦​​🇱​​🇼​​🇦​​🇾​​🇸​ ​🇴​​🇵​​🇪​​🇳​ ​🇹​​🇴​ ​🇨​​🇴​​🇳​​🇹​​🇷​​🇮​​🇧​​🇺​​🇹​​🇮​​🇳​​🇬​ ​🇹​​🇴​ ​🇴​​🇵​​🇪​​🇳​-​🇸​​🇴​​🇺​​🇷​​🇨​​🇪​ ​🇵​​🇷​​🇴​​🇯​​🇪​​🇨​​🇹​​🇸​ ​🇦​​🇳​​🇩​ ​🇨​​🇴​​🇱​​🇱​​🇦​​🇧​​🇴​​🇷​​🇦​​🇹​​🇮​​🇳​​🇬​ ​🇴​​🇳​ ​🇮​​🇳​​🇳​​🇴​​🇻​​🇦​​🇹​​🇮​​🇻​​🇪​ ​🇸​​🇴​​🇫​​🇹​​🇼​​🇦​​🇷​​🇪​ ​🇮​​🇩​​🇪​​🇦​​🇸​.
 </p>
 <h2 align="center">𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜</h2>
 
