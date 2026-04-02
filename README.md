@@ -60,7 +60,6 @@
 </p>
 
 <h2 align="center">𝕊𝕥𝕒𝕥𝕚𝕤𝕥𝕚𝕔𝕤</h2> 
-<h3 align="center">Tharuki's GitHub Stats</h3> 
 
 <div align="center"> 
   <a href="https://github.com/TharukiJ"> 
