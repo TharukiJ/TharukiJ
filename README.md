@@ -1,13 +1,10 @@
 <p align="center">
-<<<<<<< HEAD
   <img src="assets/dino.gif" width="100%" />
-=======
   <img src="c:\Users\USER\Documents\GitHub\TharukiJ\assets\dino.gif" width="100%" />
->>>>>>> 0394c4ff0386190da2368ba11159b0408690f747
 </p>
-  
-<p align="center">
-  ​🇦​​🇱​​🇼​​🇦​​🇾​​🇸​ ​🇴​​🇵​​🇪​​🇳​ ​🇹​​🇴​ ​🇨​​🇴​​🇳​​🇹​​🇷​​🇮​​🇧​​🇺​​🇹​​🇮​​🇳​​🇬​ ​🇹​​🇴​ ​🇴​​🇵​​🇪​​🇳​-​🇸​​🇴​​🇺​​🇷​​🇨​​🇪​ ​🇵​​🇷​​🇴​​🇯​​🇪​​🇨​​🇹​​🇸​ ​🇦​​🇳​​🇩​ ​🇨​​🇴​​🇱​​🇱​​🇦​​🇧​​🇴​​🇷​​🇦​​🇹​​🇮​​🇳​​🇬​ ​🇴​​🇳​ ​🇮​​🇳​​🇳​​🇴​​🇻​​🇦​​🇹​​🇮​​🇻​​🇪​ ​🇸​​🇴​​🇫​​🇹​​🇼​​🇦​​🇷​​🇪​ ​🇮​​🇩​​🇪​​🇦​​🇸​.
+
+  <p align="center">
+ 𝙰𝚕𝚠𝚊𝚢𝚜 𝚘𝚙𝚎𝚗 𝚝𝚘 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚗𝚐 𝚝𝚘 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚗𝚍 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚗𝚐 𝚘𝚗 𝚒𝚗𝚗𝚘𝚟𝚊𝚝𝚒𝚟𝚎 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚒𝚍𝚎𝚊𝚜.    
 </p>
 
 <br>
@@ -65,9 +62,7 @@
   <img src="https://img.shields.io/badge/Antigravity-000000?style=flat&logo=antdesign&logoColor=EDE6D4&labelColor=000000&color=000000" />
 </p>
 
----
 <h2 align="center">𝕊𝕥𝕒𝕥𝕚𝕤𝕥𝕚𝕔𝕤</h2> 
-<h3 align="center">Tharuki's GitHub Stats</h3> 
 
 <div align="center"> 
   <a href="https://github.com/TharukiJ"> 
