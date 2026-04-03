@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=cs&theme=dark" />
 </p>
 
-<h4 align="center">𝕱𝖗𝖔𝖓𝖙𝖊𝖓𝖉</h4>
+<h4 align="center">𝐹𝑅𝒪𝒩𝒯𝐸𝒩𝒟</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react&theme=dark" />
   <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" />
