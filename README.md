@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=angular&theme=dark" />
 </p>
 
-<h4 align="center">𝕭𝖆𝖈𝖐𝖊𝖓𝖉, 𝕯𝖆𝖙𝖆𝖇𝖆𝖘𝖊 & 𝕮𝖑𝖔𝖚𝖉</h4>
+<h4 align="center">𝐵𝒜𝒞𝒦𝐸𝒩𝒟,𝒟𝒜𝒯𝒜𝐵𝒜𝒮𝐸 𝒜𝒩𝒟 𝒞𝐿𝒪𝒰𝒟</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
   <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
