@@ -10,8 +10,8 @@
 <br>
 <br>
 
-<h2 align="center">𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜</h2>
-<h4 align="center">𝔓𝔯𝔬𝔤𝔯𝔞𝔪𝔪𝔦𝔫𝔤 𝔏𝔞𝔫𝔤𝔲𝔞𝔤𝔢𝔰</h4>
+<h2 align="center">ＴＥＣ　ＳＴＡＣＫ</h2>
+<h4 align="center">ℙℝ𝕆𝔾ℝ𝔸𝕄𝕀ℕ𝔾 𝕃𝔸ℕ𝔾</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py&theme=dark" />
   <img src="https://skillicons.dev/icons?i=java&theme=dark" />
@@ -22,14 +22,14 @@
   <img src="https://skillicons.dev/icons?i=cs&theme=dark" />
 </p>
 
-<h4 align="center">𝐹𝑅𝒪𝒩𝒯𝐸𝒩𝒟</h4>
+<h4 align="center">𝔽ℝ𝕆ℕ𝕋𝔼ℕ𝔻</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react&theme=dark" />
   <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" />
   <img src="https://skillicons.dev/icons?i=angular&theme=dark" />
 </p>
 
-<h4 align="center">𝐵𝒜𝒞𝒦𝐸𝒩𝒟,𝒟𝒜𝒯𝒜𝐵𝒜𝒮𝐸 𝒜𝒩𝒟 𝒞𝐿𝒪𝒰𝒟</h4>
+<h4 align="center">𝔹𝔸ℂ𝕂𝔼ℕ𝔻,𝔻𝔸𝕋𝔸𝔹𝔸𝕊𝔼 & ℂ𝕃𝕆𝕌𝔻</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
   <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
@@ -40,14 +40,14 @@
   <img src="https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=EDE6D4&labelColor=000000&color=000000" />
 </p>
 
-<h4 align="center">𝕬𝕴 𝕿𝖔𝖔𝖑𝖘</h4>
+<h4 align="center">𝔸𝕀 𝕋𝕆𝕆𝕃𝕊</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Gemini-000000?style=flat&logo=googlegemini&logoColor=EDE6D4&labelColor=000000&color=000000" />
   <img src="https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=EDE6D4&labelColor=000000&color=000000" />
   <img src="https://img.shields.io/badge/Claude-000000?style=flat&logo=anthropic&logoColor=EDE6D4&labelColor=000000&color=000000" />
 </p>
 
-<h4 align="center">𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖒𝖊𝖓𝖙 𝕿𝖔𝖔𝖑𝖘 & 𝕴𝕯𝕰𝖘</h4>
+<h4 align="center">𝔻𝔼𝕍 𝕋𝕆𝕆𝕃𝕊 & 𝕀𝔻𝔼𝕊</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git&theme=dark" />
   <img src="https://skillicons.dev/icons?i=github&theme=dark" />
@@ -64,7 +64,7 @@
 <br>
 <br>
 
-<h2 align="center">𝕊𝕥𝕒𝕥𝕚𝕤𝕥𝕚𝕔𝕤</h2> 
+<h2 align="center">ＳＴＡＴＩＳＴＩＣＳ</h2> 
 
 <div align="center"> 
   <a href="https://github.com/TharukiJ"> 
