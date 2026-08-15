@@ -66,14 +66,7 @@
 
 <h2 align="center">ＳＴＡＴＩＳＴＩＣＳ</h2> 
 
-<div align="center"> 
-  <a href="https://github.com/TharukiJ"> 
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TharukiJ&show_icons=true&include_all_commits=true&count_private=true&bg_color=4B4D39&title_color=EDE6D4&text_color=EDE6D4&icon_color=EDE6D4&border_color=EDE6D4" alt="GitHub Stats" /> 
-  </a> 
-  <a href="https://github.com/TharukiJ"> 
-    <img width="49%" src="https://streak-stats.demolab.com?user=TharukiJ&theme=default&background=4B4D39&ring=EDE6D4&fire=EDE6D4&currStreakLabel=EDE6D4&sideLabels=EDE6D4&dates=EDE6D4&border=EDE6D4" alt="GitHub Streak" /> 
-  </a> 
-</div> 
+
 
 <br> 
 
