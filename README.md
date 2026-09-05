@@ -64,11 +64,11 @@
 <br>
 <br>
 
-<h2 align="center">ＳＴＡＴＩＳＴＩＣＳ</h2> 
 
 
 
-<br> 
+
+
 
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none; outline:none; border-collapse:collapse;"> 
   <tr> 
