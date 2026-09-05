@@ -70,13 +70,3 @@
 
 
 
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none; outline:none; border-collapse:collapse;"> 
-  <tr> 
-    <td width="58%" valign="middle" align="center" style="border:none; outline:none;"> 
-      <a href="https://github.com/TharukiJ"> 
-        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TharukiJ&bg_color=4B4D39&color=EDE6D4&line=EDE6D4&point=EDE6D4&hide_border=false&border_color=EDE6D4" alt="Contribution Graph" /> 
-      </a> 
-  </tr> 
-</table>
-
-
